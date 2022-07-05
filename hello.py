@@ -1,5 +1,4 @@
 print('hello python & git rock')
 
 xx
-yy
-gg
+測試修改 JIRA 同步
